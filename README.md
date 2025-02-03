@@ -1,0 +1,1 @@
+This is a personal portfolio website showcasing my work, skills, and projects. The website is designed with a simple and clean layout to provide visitors with an easy way to explore my professional background.
